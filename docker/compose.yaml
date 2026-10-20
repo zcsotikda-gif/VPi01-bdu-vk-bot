@@ -1,0 +1,8 @@
+name: vk-bot
+
+services:
+  tests:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    image: vk-bot-tests

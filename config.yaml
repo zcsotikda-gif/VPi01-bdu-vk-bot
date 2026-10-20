@@ -1,0 +1,5 @@
+ai_provider: local
+base_url: http://127.0.0.1:1234
+model_id: 773a7da77e569019bb0fd17a554b263738d669a3
+# INFO — обычные логи, DEBUG — показывать все сырые события LongPoll (для диагностики)
+log_level: INFO

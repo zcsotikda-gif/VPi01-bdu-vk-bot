@@ -1,0 +1,14 @@
+# Контекст сборки — корень проекта: секреты и данные в образ не попадают
+.env
+data/
+*.db
+*.log
+.vkbottle/
+.venv/
+venv/
+.git/
+**/__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.DS_Store
